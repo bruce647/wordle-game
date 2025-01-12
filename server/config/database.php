@@ -2,7 +2,7 @@
 class DatabaseConnection {
     private $host = 'localhost:3306';
     private $username = 'bruce';
-    private $password = 'LGXshi123';
+    private $password = 'xxx';
     private $database = 'wordle_game';
     private $charset = 'utf8mb4';
 
